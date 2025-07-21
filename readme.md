@@ -1,6 +1,6 @@
-# ProShop v2
+# PrShop_E-commerce
 
-ProShop v2 is an e-commerce platform built with modern web technologies. It provides a seamless shopping experience for users and a robust management system for administrators.
+PrShop_E-commerce is an e-commerce platform built with modern web technologies. It provides a seamless shopping experience for users and a robust management system for administrators.
 
 ## Technologies Used
 
