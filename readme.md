@@ -49,7 +49,7 @@ Change the JWT_SECRET and PAGINATION_LIMIT to what you want
 
 ```
 git clone https://github.com/Pra-cs/PrShop_E-commerce.git
-cd proshop-v2
+cd PrShop_E-commerce
 ```
 
 ### Install Dependencies (frontend & backend)
@@ -105,4 +105,5 @@ jane@email.com (Customer)
 ```
 
 ---
+
 # PrShop_E-commerce
